@@ -1,0 +1,9 @@
+payload:
+
+  # > RESSO
+  - DOMAIN-SUFFIX,log.resso.app
+  - DOMAIN-SUFFIX,libra-sg.resso.app
+  - DOMAIN-SUFFIX,api.resso.app
+  - DOMAIN-SUFFIX,rtlog.resso.app
+  - DOMAIN-SUFFIX,api21.resso.app
+  - DOMAIN-SUFFIX,api15.resso.app
