@@ -12,13 +12,13 @@ payload:
   - DOMAIN-SUFFIX,media-xsp1-2.cdn.whatsapp.net
   - DST-PORT,38211
 
-# > MICROSOFT
+  # > MICROSOFT
   - DOMAIN-SUFFIX,smartscreen-prod.microsoft.com
   - DOMAIN-SUFFIX,self.events.data.microsoft.com
   - DOMAIN-SUFFIX,nav.smartscreen.microsoft.com
   - DOMAIN-SUFFIX,edge.microsoft.com
   
-  #>RUANGGURU
+  # > RUANGGURU
   - DOMAIN-SUFFIX,ruangguru.com
   - DOMAIN-SUFFIX,belajar.ruangguru.com
   - DOMAIN-SUFFIX,midtrans.com
